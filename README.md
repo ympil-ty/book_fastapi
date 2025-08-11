@@ -27,8 +27,3 @@ cd book_fastapi`
 Swagger UI: (http://localhost:8000/docs) 
 ReDoc: (http://localhost:8000/redoc) 
 
-book_fastapi/
-├── main.py          # Основной код API
-├── README.md        # Этот файл
-├── .gitignore       # Исключает venv, кеш и т.д.
-└── venv/            # Виртуальное окружение (не в репозитории)
